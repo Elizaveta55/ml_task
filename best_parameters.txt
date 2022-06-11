@@ -1,0 +1,3 @@
+base_estimator=DecisionTreeClassifier()
+n_estimators=10
+bootstrap=True
